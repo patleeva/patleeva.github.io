@@ -5,10 +5,10 @@ TODO.
 # 2. Кажете ни какво искате да поръчате
 
 <ul>
-    <li>[Е-поща]()</li>
-    <li>[Signal]()</li>
-    <li>[Viber]()</li>
-    <li>[WhatsApp]()</li>
+    <li><a href="">Е-поща</a></li>
+    <li><a href="">Signal</a></li>
+    <li><a href="">Viber</a></li>
+    <li><a href="">WhatsApp</a></li>
 </ul>
 
 Изпращаме до адреси, офиси на Еконт или еконтомати.
