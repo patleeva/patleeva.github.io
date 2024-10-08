@@ -14,7 +14,7 @@ TODO.
 
 <ul>
     <li><a href="">Е-поща</a></li>
-    <li><a href=""><i class="fas signal-messenger"><br/>Signal</i></a></li>
+    <li><a href=""><i class="fas signal-messenger"></i><br/>Signal</a></li>
     <li><a href="">Viber</a></li>
     <li><a href="">WhatsApp</a></li>
 </ul>
